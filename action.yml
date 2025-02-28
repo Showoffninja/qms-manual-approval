@@ -48,6 +48,3 @@ inputs:
 runs:
   using: docker
   image: docker://ghcr.io/showoffninja/qms-manual-approval:1.0.0
-  credentials:
-    username: ${{ github.actor }}
-    password: ${{ secrets.ghcr_token }}
