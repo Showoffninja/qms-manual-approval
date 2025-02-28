@@ -1,4 +1,4 @@
-IMAGE_REPO=ghcr.io/showoffninja/manual-approval-action
+IMAGE_REPO=ghcr.io/showoffninja/qms-manual-approval
 TARGET_PLATFORM=linux/amd64
 
 .PHONY: build
