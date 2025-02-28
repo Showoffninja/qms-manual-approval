@@ -47,4 +47,4 @@ inputs:
     default: "true"
 runs:
   using: docker
-  image: docker://ghcr.io/showoffninja/manual-approval-action:1.0.0
+  image: docker://ghcr.io/showoffninja/qms-manual-approval:1.0.0
